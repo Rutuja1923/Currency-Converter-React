@@ -23,7 +23,7 @@ npm run dev
 ```
 
 ## UI Preview  
-![Currency Converter Preview](https://raw.githubusercontent.com/Rutuja1923/Random-Password-Generator/main/public/screenshot.png)
+![Currency Converter Preview](https://raw.githubusercontent.com/Rutuja1923/Currency-Converter-React/main/public/screenshot.png)
 
 ## Optimizations
 - Fixed swap logic to prevent unintended auto-conversion  
