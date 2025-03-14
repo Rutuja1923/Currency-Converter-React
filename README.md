@@ -27,7 +27,7 @@ npm run dev
 
 ## UI Preview
 
-![Currency Converter Preview](https://raw.githubusercontent.com/Rutuja1923/Currency-Converter-React/main/screenshot1.png)
+![Currency Converter Preview](https://raw.githubusercontent.com/Rutuja1923/Currency-Converter-React/main/public/screenshot1.png)
 
 ## Optimizations
 
